@@ -1,0 +1,30 @@
+{
+  "repository": "https://github.com/XUhaozhi88/Openmmlab_mine",
+  "commit": "efcd71be2e87e51578431bcdf43ef43f565d5504",
+  "target": "E:\\Files\\Codes\\Python\\openmmlab",
+  "source": "existing local mirror + archived server deployment audit",
+  "changes": [
+    {
+      "path": "mmcv/setup.py",
+      "before_sha256": "fb56b5fcb44cd2990558979c388d8892beb49bea864bca5eb2fdcca3ac61639c",
+      "after_sha256": "505239b05d1aa2349c38173851eb19f80a924968cb4db6e4f43ac179129cbc34",
+      "server_normalized_sha256": "98ca652f159c13b7df643a328ce1fd18b1a002b49c99bcfdd3c6f8532b4cb1dd",
+      "newline": "'\\r\\n'"
+    },
+    {
+      "path": "mmdetection/setup.py",
+      "before_sha256": "28c448b46f02b109e8c57501f8d889eea0d6b5754c2feb1d5b04d0f1a7e92591",
+      "after_sha256": "9372e854fce2d7255e156a8f4c9eb126f9eeef02df46fd37c3f77877375f4d7b",
+      "server_normalized_sha256": "de767adc3e5525c8bf8644fd15b270026fd4f6665cd84d102a7f06f81b16649a",
+      "newline": "'\\r\\n'"
+    },
+    {
+      "path": "mmengine/setup.py",
+      "before_sha256": "ef3666db0bc1bfcaf182c870cb0872a66c44b32a3a4d67010559cf7dc6ce9546",
+      "after_sha256": "cb946e1df867be27fd944f4fa566fe77f7f703c915397a5ac3110b4c4e99fabb",
+      "server_normalized_sha256": "75422648ddd89b0715bf0cd3a6bb33a9692775bd778835660a94565c25a943a7",
+      "newline": "'\\r\\n'"
+    }
+  ],
+  "deterministic_attention_sha256": "0e101a8ee61c0bd680fc1f850eec21fc4ea950cf38fdbd27aeb428ab0f9ba0a6"
+}

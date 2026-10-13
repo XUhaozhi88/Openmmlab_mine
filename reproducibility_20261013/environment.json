@@ -1,0 +1,35 @@
+{
+  "python": "3.13.5",
+  "torch": "2.8.0+cu128",
+  "cuda": "12.8",
+  "mmengine": "0.11.0rc3",
+  "mmcv": "2.2.0",
+  "mmdet": "3.3.0",
+  "imports": {
+    "mmengine": "/root/dual_gpu_repro_20261013/Openmmlab_mine-efcd71be2e87e51578431bcdf43ef43f565d5504/mmengine/mmengine/__init__.py",
+    "mmcv": "/root/dual_gpu_repro_20261013/Openmmlab_mine-efcd71be2e87e51578431bcdf43ef43f565d5504/mmcv/mmcv/__init__.py",
+    "mmdet": "/root/dual_gpu_repro_20261013/Openmmlab_mine-efcd71be2e87e51578431bcdf43ef43f565d5504/mmdetection/mmdet/__init__.py"
+  },
+  "repository_commit": "efcd71be2e87e51578431bcdf43ef43f565d5504",
+  "gpus": [
+    {
+      "name": "NVIDIA GeForce RTX 5090",
+      "capability": [
+        12,
+        0
+      ],
+      "total_mib": 32110.9375,
+      "cuda_nms": "passed"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 5090",
+      "capability": [
+        12,
+        0
+      ],
+      "total_mib": 32110.9375,
+      "cuda_nms": "passed"
+    }
+  ],
+  "extension_sha256": "d7dae1f85936101d16e91e6cca3b6cb233acbb15cc6e17795eb8df858cf77f0e"
+}

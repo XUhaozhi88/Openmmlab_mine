@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "commit": "efcd71be2e87e51578431bcdf43ef43f565d5504",
+  "source_files": 3976,
+  "archive_sha256": "9f378356ef68b70fb2bcb8a55d7e87ea2b3f232e1c3d993ca9f65d355dbb4d02",
+  "metadata_compatibility_changes": {
+    "mmcv/setup.py": {
+      "original": "d4bb6f7b9f0e804579112233d76e1ef1488cf298ab869db7fd859ae35b4b2bda",
+      "deployed": "98ca652f159c13b7df643a328ce1fd18b1a002b49c99bcfdd3c6f8532b4cb1dd"
+    },
+    "mmdetection/setup.py": {
+      "original": "60353119873e26e988be6061f26cccd9e4b9cdb66e9fe35d0d6bdb4963519d9e",
+      "deployed": "de767adc3e5525c8bf8644fd15b270026fd4f6665cd84d102a7f06f81b16649a"
+    },
+    "mmengine/setup.py": {
+      "original": "81f39edcf13057d10bb2ffb60608c91318dfcb85158c7f0cad9bf2092a90102f",
+      "deployed": "75422648ddd89b0715bf0cd3a6bb33a9692775bd778835660a94565c25a943a7"
+    }
+  }
+}
